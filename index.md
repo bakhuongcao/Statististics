@@ -4,120 +4,129 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Personal academic profile](./index.html)
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This document presents the academic curriculum vitae of **Ba Khuong Cao**, including education, research interests, publications, and professional experience.
 
-# Header 1
+# Personal Information
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a normal paragraph following a header. The information below summarizes current affiliation and contact details.
 
-## Header 2
+- **Full name**: Ba Khuong Cao  
+- **Affiliation**: Thai Nguyen University of Medicine and Pharmacy, Vietnam  
+- **Email**: caobakhuong@tnmc.edu.vn  
+
+![Profile photo](Khuong.png)
+
+## Research Interests
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+- Health Care Sciences & Services  
+- Tropical Medicine  
+- Epidemiology  
+- Methodology of health services research and evaluation  
+- Public health policy and management  
+- Economic evaluations  
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Experience
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+```text
+Lecturer – Researcher
+Department of Epidemiology, Faculty of Public Health
+Thai Nguyen University of Medicine and Pharmacy
+2015 – Present
+Teach epidemiology and research methodology to undergraduate medical students
 
-#### Header 4
+Supervise medical students conducting epidemiological studies
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Conduct collaborative research within and beyond the university
 
-##### Header 5
+Participate in disease prevention campaigns (e.g., COVID-19 pandemic)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+text
+Copy code
+Concurrent Staff
+Postgraduate Office
+Thai Nguyen University of Medicine and Pharmacy
+2020 – 2023
+Coordinate residency training programs (internal medicine, pediatrics, surgery)
 
-###### Header 6
+Liaise with departments and affiliated hospitals at provincial and national levels
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Verify data management and data analysis for resident theses
 
-### There's a horizontal rule below this.
+Education
+Ph.D. in Health Sciences, University of Groningen, 08/2023 – 08/2027
 
-* * *
+M.Sc. in Tropical Medicine (Epidemiology), Mahidol University, 08/2017 – 08/2019
 
-### Here is an unordered list:
+Medical Doctor in Preventive Medicine, Thai Nguyen University of Medicine and Pharmacy, 09/2009 – 08/2015
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Associations
+ISPOR Groningen Chapter — Public Relation Officer
+https://www.linkedin.com/posts/ispor-groningen-chapter_isporgroningenchapter-healtheconomics-activity-7310213334362976257-pk4J/
 
-### And an ordered list:
+Publications
+Category	Description
+International	Peer-reviewed journal articles
+National	Peer-reviewed Vietnamese journals
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+International Peer-Reviewed Publications
+Cao BK, Nguyen TPL, Postma MJ, van der Schans J.
+Acceptance and willingness to pay for pneumococcal vaccination in Vietnam.
+Vaccine. 2025;67:127884.
+https://pubmed.ncbi.nlm.nih.gov/41129882/
 
-### And a nested list:
+Cao BK, Hanifa RS, Nguyen TP, Postma MJ, van der Schans J.
+Economic evaluations of vaccines against respiratory infections in adults in Southeast Asia.
+Hum Vaccin Immunother. 2025;21(1):2528409.
+https://pubmed.ncbi.nlm.nih.gov/40665593/
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Cao Ba K, Kaewkungwal J, Pacheun O, Nguyen Thi To U, Lawpoolsri S.
+Health Literacy Toward Zoonotic Diseases Among Livestock Farmers in Vietnam.
+Environ Health Insights. 2020.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7372606/
 
-### Small image
+National Peer-Reviewed Publications
+Nguyen LTP, Nguyen DT, Tran HT, Hoang NM, Hoa HTH, Cao KB, et al.
+Acceptance and willingness to pay for COVID-19 vaccines in Vietnam.
+MedPharmRes, 2022.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Tran ATP, Cao KB, Van VH.
+Antibiotic usage among the elderly in Thai Nguyen province.
+MedPharmRes, 2022.
 
-### Large image
+Bui TTH, Cao BK, Tran TM.
+Relationship between bilirubin and coronary artery disease.
+Vietnam Medical Journal, 2021.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Conferences
+14th European Congress on Tropical Medicine and International Health (2025)
 
+Presentations
+Economic evaluations of vaccines against respiratory infections in adults in Southeast Asia
+14th European Congress on Tropical Medicine and International Health (2025)
 
-### Definition lists can be used with HTML syntax.
+Tools
+R, RStudio, SPSS, Stata
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Git, VS Code
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Atlas.ti, REDCap, Epidata
 
-```
-The final element.
-```
+MS Office, Photoshop, Illustrator
+
+Language Proficiency
+English: IELTS 7.0
+
+Dutch: Basic
+
+Vietnamese: Native
+
+References
+<dl> <dt>Assoc. Prof. Saranath Lawpoolsri</dt> <dd>Department of Tropical Hygiene, Faculty of Tropical Medicine, Mahidol University</dd> <dd>Email: saranath.law@mahidol.ac.th</dd> <dd>Relationship: Master’s supervisor</dd> <dt>Assoc. Prof. Nguyen Phuong Sinh</dt> <dd>Vice-Rector, Thai Nguyen University of Medicine and Pharmacy</dd> <dd>Email: sinhnp.y@gmail.com; nguyenphuongsinh@tump.edu.vn</dd> <dd>Relationship: Employer</dd> </dl>
